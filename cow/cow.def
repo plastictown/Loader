@@ -1,0 +1,4 @@
+LIBRARY COW
+EXPORTS
+	sound	@1
+	weight	@2
